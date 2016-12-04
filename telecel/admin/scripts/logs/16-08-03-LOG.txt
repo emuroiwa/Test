@@ -1,0 +1,4 @@
+08/03/2016 - 09:08:38 - admin - Balance Take Up Amount=2730 |Stand = 37
+08/03/2016 - 09:08:38 - admin - Balance Take Up Amount=2520 |Stand = 37
+08/03/2016 - 15:08:42 - admin - Balance Take Up Amount=0 |Stand = 
+08/03/2016 - 16:08:15 - admin - Balance Take Up Amount=5847 |Stand = 

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<configuration date="2016/11/26" author="e.World Technology Ltd.">
+<project id="{071D0047-16DB-46CE-AE84-63B7E07DBB14}" file="C:\Users\emuro\Documents\PHPReportMaker\Projects\telecel.prp" name="telecel" product="PHPReportMaker" version="9.0" datetime="2016/11/26 06:26:07" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+<table id="genset" name="genset" caption="genset" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="site" name="site" caption="site" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="topup" name="topup" caption="topup" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="Gensets" name="Gensets" caption="Gensets" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="Sites" name="Sites" caption="Sites" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="TopUpp" name="TopUpp" caption="Top Upp" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+</project></configuration>

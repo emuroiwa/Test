@@ -1,0 +1,92 @@
+#jmod-container {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 12px;
+}
+
+#jmod a {
+	background: none;
+	text-decoration: none;
+}
+
+#jmod a:hover {
+	text-decoration: underline;
+}
+
+.jmod-copyright {
+	border-top: 1px #ccc solid;
+	text-align: center;
+}
+
+.jmod-copyright a {
+	color: #999;
+	font-size: 9px;
+	text-decoration: none;
+}
+
+#jmod-header {
+	border-bottom: 1px #ccc solid;
+	padding: 5px;
+}
+
+#jmod-header a {
+	background: none;
+	color: #333;
+}
+
+#jmod-header a:hover {
+	text-decoration: none;
+}
+
+a .jmod-display-name {
+	font-weight: bold;
+	color: #333;
+}
+
+a:hover .jmod-display-name {
+	text-decoration: underline;
+}
+
+a .jmod-screen-name {
+	color: #999;
+	text-decoration: none;
+}
+
+a:hover .jmod-screen-name {
+	color: #666;
+}
+
+.jmod-avatar {
+	border: 0px;
+	float: left;
+	margin-right: 5px;
+}
+
+#jmod-tweets a {
+	color: #0084B4;
+	text-decoration: none;
+}
+
+.jmod-tweet-container {
+	border-bottom: 1px #ccc solid;
+	padding: 8px;
+}
+
+.jmod-last {
+	border: none;
+}
+
+.jmod-tweet-data {
+	font-size: 10px;
+	text-align: center;	
+}
+
+#jmod-twitter-icon a {
+	background: url('../images/twitter-icon.png') no-repeat;
+	display: block;
+	float: right;
+	height: 20px;
+	width: 20px;
+	text-indent: -9999px;
+}

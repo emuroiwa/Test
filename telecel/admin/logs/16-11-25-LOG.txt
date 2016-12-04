@@ -1,0 +1,12 @@
+11/25/2016 - 13:11:43 - admin - Logout | User = Ernest Muroiwa
+11/25/2016 - 13:11:13 - user - User Login
+11/25/2016 - 13:11:09 - user - Logout | User = muroiwa asdf
+11/25/2016 - 13:11:13 - user - User Login
+11/25/2016 - 21:11:12 - user - Logout | User = muroiwa asdf
+11/25/2016 - 21:11:24 - admin - User Login
+11/25/2016 - 22:11:24 - admin - Logout | User = Telecel telecel
+11/25/2016 - 22:11:33 - admin - User Login
+11/25/2016 - 22:11:00 - admin - Logout | User = Telecel telecel
+11/25/2016 - 22:11:43 - user - User Login
+11/25/2016 - 22:11:17 - user - Logout | User = muroiwa asdf
+11/25/2016 - 22:11:25 - manager - User Login
